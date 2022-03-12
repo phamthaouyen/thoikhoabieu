@@ -6,9 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thời khóa biểu</title>
     <link rel="stylesheet" href="btvn.css">
-</head>
-<body >
-<style>
+    <style>
 h1{text-align: center;}
 table ,th,td{padding : 4px 17px 0px 17px;border: 1.5px solid; border-collapse: collapse; }
 table.center {
@@ -20,6 +18,8 @@ table.center {
  tr { text-align: center;}
 h3{padding-left: 380px;}
 </style>
+</head>
+<body >
     <h1>THỜI KHÓA BIỂU</h1>
     <h3>BUỔI SÁNG:</h2>
     <table class="center">
